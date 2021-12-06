@@ -8,40 +8,41 @@ body {
 
 .header {
     background-color: white;
-    height: 15%;
+    height: 10%;
     font-size: 50%;
 }
 
 #logo {
-    height: 100%;
-    padding-top: 20px;
-    padding-left: 30px;
+    padding-top: 10px;
+    padding-left: 20px;
+    height: 75%;
 }
 
 #titolo {
-    font-size: 75px;
-    padding-bottom: 50px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: arial;
+    line-height: 5px;
 }
 
 #main {
     background-color: white;
     margin: auto;
     width: 70%;
-    height: 70%;
+    height: 80%;
     margin-top: 55px;
     border-radius: 1%;
 }
 
 #header2 {
-    padding-top: 15px;
+    padding-top: 30px;
     padding-left: 10%;
     height: 5%;
-    padding-top: 30px;
 }
 
 .button {
     background-color: #46adf1;
-    border-radius: 8%;
+    border-radius: 5px;
     padding: 8px;
     border: solid 2px #dbdee1;
     color: white;
@@ -62,8 +63,11 @@ body {
 }
 
 .sottotitolo {
-    font-size: 18px;
+    font-size: 28px;
     font-family: arial;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 8px;
 }
 
 #main2 {
@@ -72,4 +76,35 @@ body {
 
 .paragrafi {
     padding-left: 5px;
+    font-size: 24px;
+    font-family: arial;
+}
+
+.targhetta {
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #45abea;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#targhetta1 {
+    background-color: #9c72e4;
+}
+
+#targhetta2 {
+    background-color: #64c0a9;
+}
+
+#targhetta3 {
+    background-color: #f2a036;
+}
+
+#targhetta4 {
+    background-color: #d863a1;
+}
+
+#targhetta5 {
+    background-color: #b0c926;
 }
