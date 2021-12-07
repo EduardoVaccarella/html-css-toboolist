@@ -15,6 +15,7 @@ body {
 #logo {
     padding-top: 10px;
     padding-left: 20px;
+    display: inline-block;
     height: 75%;
 }
 
@@ -22,7 +23,9 @@ body {
     font-size: 50px;
     font-weight: bold;
     font-family: arial;
+    display: inline-block;
     line-height: 5px;
+    vertical-align: 25px;
 }
 
 #main {
